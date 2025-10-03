@@ -5,6 +5,7 @@ A Python project for visualizing mathematical functions using NumPy and Matplotl
 Extendable: just replace the function definition to graph any function you like.
 Uses simple, readable Python code.
 Grid-enabled plots for better visualization.
+2. Plot Riemann Function - Shows how to generate and plot the classic Riemann function, highlighting its continuous yet almost nowhere differentiable behavior."
 # Requirements
 Make sure you have Python installed, then install the dependencies:
 pip install numpy matplotlib
